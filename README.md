@@ -1,4 +1,4 @@
-1. To start Redux Saga Intro (repo), follow these steps:
+1. To start the project, follow these steps:
 
    - Navigate to the repo on the terminal.
    - Run **npm i** and **npm start** to run the game.
@@ -20,5 +20,3 @@ https://github.com/Umuzi-org/Phila-Ngcamu-538-redux-saga-intro-javascript/assets
 - Avoid the Red Ghost at all costs!
 - As you eat the sandwich, the board will shrink for higher difficulty.
 - Click below to start the game.
-
-Redux Saga Intro (538) For raw project instructions see: [Redux Saga Intro](http://syllabus.africacode.net/projects/redux-saga-intro/)
