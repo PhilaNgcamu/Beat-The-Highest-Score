@@ -12,7 +12,9 @@ How to play **Beat The Highest Score**:
 
 - See the initial game here👉: [Beat The Highest Score](https://www.youtube.com/watch?v=VExOpx_MibA) or see the updated one below:
 
-https://github.com/Umuzi-org/Phila-Ngcamu-538-redux-saga-intro-javascript/assets/85244615/e513a87d-0767-474e-9bce-0f40f6640a47
+
+https://github.com/PhilaNgcamu/Beat-The-Highest-Score/assets/85244615/399e31be-6d2b-4aff-b510-6491e696176a
+
 
 - **OR** follow these instructions below:
 
