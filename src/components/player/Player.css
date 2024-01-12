@@ -1,0 +1,9 @@
+.player {
+  background-image: url("../../../public/pacman-25757.png");
+  transition: transform 0.2s ease-in-out;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+  border-radius: 50%;
+}

@@ -1,0 +1,8 @@
+.redGhost {
+  background-image: url("../../../public/pacman-25792.png");
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+  border-radius: 50%;
+}

@@ -1,0 +1,36 @@
+.instructions {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
+
+.instructions h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.instructions p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.instructions button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff6f61;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.instructions button:hover {
+  background-color: #ff7f73;
+}

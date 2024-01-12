@@ -1,0 +1,77 @@
+.game-container {
+  background-color: #ff6f61;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  margin: 20px;
+}
+
+.restart-button,
+.timer {
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+  background-color: #ffab40;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.restart-button {
+  position: absolute;
+  top: 100%;
+  width: 35%;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: #fa991b;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.restart-button:hover {
+  background-color: #fd840b;
+}
+
+.timer {
+  position: absolute;
+  left: -60px;
+  top: 20px;
+  transform: translateX(-100px);
+  width: 120px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  background-color: #ffab40;
+  padding: 5px 7px;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 767px) {
+  .game-container {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+  }
+
+  .restart-button,
+  .timer {
+    font-size: 100%;
+    padding: 0.5% 1px;
+    border-radius: 3px;
+    text-align: center;
+  }
+
+  .restart-button {
+    top: 100%;
+    left: 36.6%;
+    width: 25%;
+  }
+
+  .timer {
+    top: 100%;
+    left: 14vw;
+    width: 33%;
+  }
+}

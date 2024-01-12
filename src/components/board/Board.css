@@ -1,0 +1,11 @@
+.board {
+  position: relative;
+  background: linear-gradient(45deg, #fceabb, #ffd54f);
+  border: 8px solid #ffab40;
+  border-radius: 20px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+}
